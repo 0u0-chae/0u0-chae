@@ -1,7 +1,5 @@
-<div>
-  ![header](https://capsule-render.vercel.app/api?type=venom&text=0u0-chae%20Github!)
-</div>
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![header](https://capsule-render.vercel.app/api?type=venom&text=0u0-chae%20Github!)
+
 <div>
   <!--Body-->
   
