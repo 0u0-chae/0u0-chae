@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=0u0-chae%20Github!)
+![header](https://capsule-render.vercel.app/api?type=venom&text=👋0u0-chae%20Github!)
 
   
 ## 💪Skills
