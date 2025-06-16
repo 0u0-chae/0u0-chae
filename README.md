@@ -1,14 +1,13 @@
 <div>
   ![header](https://capsule-render.vercel.app/api?type=venom&text=0u0-chae%20Github!)
 </div>
-
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <div>
   <!--Body-->
   
   ## 🧱 Tech Stack
   ### Language
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->
